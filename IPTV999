@@ -1,0 +1,238 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GULISTAN NEWS: GULISTAN NEWS " tvg-logo="" group-title="INDIA",IN: GULISTAN NEWS
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NEWS 18 URDU: NEWS 18 URDU" tvg-logo="" group-title="INDIA",IN: NEWS 18 URDU
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_2_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1576442535~acl=%2f*~data=hdntl~hmac=8eabe218355adbe37cddbb90e19d1978128ffc2e86dbd9201bd06b70d3a6af77
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NDTV 2HD: NDTV 2HD " tvg-logo="" group-title="INDIA",IN: NDTV 2HD
+http://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@5.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NDTV: NDTV " tvg-logo="" group-title="INDIA",IN: NDTV 
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NDTV HINDI:NDTV HINDI " tvg-logo="" group-title="INDIA",IN: NDTV HINDI
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HD: SONY HD " tvg-logo="" group-title="INDIA",IN: SONY HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1585402200_3a0b8dd1c452da1de3feb9c5cb32e866
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO SUPER: GEO SUPER HD" tvg-logo="" group-title="SPORTS",SP: GEO SUPER HD
+http://190.2.148.9:6390/104GEOSUPER/video.m3u8?token=ECl-h2gbj0
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DUNYA NEWS: DUNYA NEWS" tvg-logo="" group-title="PAKISTAN",PK: DUNYA NEWS
+http://125.209.70.52:1935/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV SPORTS: PTV SPORT" tvg-logo="" group-title="SPORTS",SP: PTV SPORTS
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="92 HD NEWS: 92 HD NEWS" tvg-logo="" group-title="PAKISTAN",PK: 92 HD NEWS
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DSPORTS: DSPORTS" tvg-logo="" group-title="SPORTS",SP: DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DW NEWS: DW NEWS" tvg-logo="" group-title="WORLD NEWS",WR: DW NEWS
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO: NAT GEO" tvg-logo="" group-title="NATURE",NR: NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FLOW SPORTS: FLOW SPORTS" tvg-logo="" group-title="SPORTS",SP: FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AAJ TAK: AAJ TAK " tvg-logo="" group-title="INDIA",IN: AAJ TAK
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="url urdu news: url urdu news " tvg-logo="" group-title="INDIA",IN: url urdu news
+https://youtu.be/gREpFkbKBG4
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZING:ZING " tvg-logo="" group-title="INDIA",IN: ZING
+http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="INDIA TV:INDIA TV " tvg-logo="" group-title="INDIA",IN: INDIA TV
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM TV HD: HUM TV HD" tvg-logo="" group-title="PAKISTAN",PK: HUM TV HD
+http://95.211.211.168/live/humtv0066/playlist.m3u8
+https://streamer-1.toffeelive.com/live/sony_max_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY NEWS: ARY NEWS " tvg-logo="" group-title="PAKISTAN",PK: ARY NEWS
+http://125.209.99.45:43568/BRN/AryNews.stream/chunklist_w79442635.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY ZAUQ: ARY ZAUQ " tvg-logo="" group-title="PAKISTAN",PK: ARY ZAUQ
+http://34.71.57.33:6256/pak2020/aryzauq/chunks.m3u8?nimblesessionid=914438&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTo0Njo1NiBQTSZoYXNoX3ZhbHVlPTNla2NualVTVERacnJtWEI2czFMREE9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX: SONY SIX " tvg-logo="" group-title="SPORTS",SP: SONY SIX
+https://streamer-1.toffeelive.com/live/sony_six_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1 HD: STAR SPORTS 1 HD " tvg-logo="" group-title="SPORTS",SP: STAR SPORTS 1 HD
+http://desiclub.ca:8880/IndiavsNewZealandHDEnglish_1258/index.m3u8?token=fff
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BOLLYWOOD CLASSIC: BOLLYWOD CLASSIC " tvg-logo="" group-title="MOVIES",MV: BOLLYWOOD CLASSIC
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_426x240_cf.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="EVERGREEN CLASSIC: EVERGREEN CLASSIC " tvg-logo="" group-title="MOVIES",MV: EVERGREEN CLASSIC
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY MAX: SONY MAX " tvg-logo="" group-title="MOVIES",MV: SONY MAX
+https://streamer-1.toffeelive.com/live/sony_max_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY MAX2: SONY MAX2 " tvg-logo="" group-title="MOVIES",MV: SONY MAX2
+https://m-adsparx-j2apps.s.llnwi.net/hlslive/sony_max_2/1/sony_max_2.m3u8?profID=76&n=2&ctype=0&adsid=AXCHFy7OTm1H9WKEluE1&chname=sony_max_2&pub=86654628-a205-4b2c-b029-9da3b18dd240&acsurl=adsparx-core-lb-127937011.ap-south-1.elb.amazonaws.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO NEWS: GEO NEWS" tvg-logo="" group-title="PAKISTAN",PK: GEO NEWS
+http://125.209.99.45:43568/BRN/GeoNews.stream/chunklist_w759222409.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD : NAT GEO WILD " tvg-logo="" group-title="NATURE",NR: NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BBC NEWS: BBC NEWS" tvg-logo="" group-title="WORLD NEWS",WR: BBC NEWS
+http://stream.tapmad.com:1935/pitvlive2/bbcnews3/media_w1261128874_13905.ts
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SAB TV: SAB TV " tvg-logo="" group-title="INDIA",IN: SAB TV
+https://streamer-1.toffeelive.com/live/sony_sab_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GNN NEWS: GNN NEWS" tvg-logo="" group-title="PAKISTAN",PK: GNN NEWS
+http://stream.tapmad.com:1935/pitvlive2/jaagtv3/chunklist_w568483109.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="WASEEB: WASEEB" tvg-logo="" group-title="PAKISTAN",PK: WASEEB
+http://stream.tapmad.com:1935/pitvlive2/waseeb3/chunklist_w839670017.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PUBLIC NEWS: PUBLIC NEWS" tvg-logo="" group-title="PAKISTAN",PK: PUBLIC NEWS
+https://hls5.zedflix.pk/hls/publicnewsweb_144p.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="A PLUS: A PLUS" tvg-logo="" group-title="PAKISTAN",PK: A PLUS
+http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist_w1892021808.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV NEWS: PTV NEWS" tvg-logo="" group-title="PAKISTAN",PK: PTV NEWS
+http://stream.ptv.com.pk:1935/ptvnews/myStream/chunklist_w1378115747.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM NEWS: HUM NEWS" tvg-logo="" group-title="PAKISTAN",PK: HUM NEWS
+http://95.211.211.168/live/humnews0189/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV SPORTS HD: PTV SPORTS HD" tvg-logo="" group-title="SPORTS",PK: PTV SPORTS HD
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_480p/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV HOME: PTV HOME" tvg-logo="" group-title="PAKISTAN",PK: PTV HOME
+https://stream.simpaisa.com/pitvlive2/ptvhome3/chunklist_w226129001.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AAJ ENT.: AAJ ENT." tvg-logo="" group-title="PAKISTAN",PK: AAJ ENT.
+https://stream.simpaisa.com/pitvlive2/aajentnew/chunklist_w586261870.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="EURO NEWS: EURO NEWS" tvg-logo="" group-title="WORLD NEWS",WR: EURO NEWS
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE24: FRANCE24" tvg-logo="" group-title="WORLD NEWS",WR: FRANCE
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM MASALA: HUM MASALA. " tvg-logo="" group-title="PAKISTAN",PK:HUM MASALA
+https://d3t34m8y8rh0vb.cloudfront.net/preview/hummasala/1800.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT TV: FIGHT TV" tvg-logo="" group-title="SPORTS",SP: FIGHT TV
+https://m-c09-j2apps.s.llnwi.net/hls/8014.FightTV.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DW NEWS: DW NEWS" tvg-logo="" group-title="WORLD NEWS",WR: DW NEWS
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="KID ZONE: KID ZONE" tvg-logo="" group-title="KIDS",KD: KID ZONE
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/540p-playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="9XM: 9XM" tvg-logo="" group-title="MUSIC",MX: 9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_720p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZOOM: ZOOM" tvg-logo="" group-title="MUSIC",MX: ZOOM
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MASTTI: MASTTI" tvg-logo="" group-title="MUSIC",MX: MASTTI
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC INDIA: MUSIC INDIA" tvg-logo="" group-title="MUSIC",MX:MUSIC INDIA
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="9XJALWA: 9XJALWA" tvg-logo="" group-title="MUSIC",MX:9XJALWA
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PRESS TV: PRESS TV" tvg-logo="" group-title="WORLD NEWS",WR: PRESS TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w656583865_b344100_slen.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS1: SPORT1" tvg-logo="" group-title="SPORTS",SP: SPORT1
+https://m-c09-j2apps.s.llnwi.net/hls/8016.SportsTV.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO NEWS: GEO NEWS. " tvg-logo="" group-title="PAKISTAN",PK:GEO NEWS
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/eae835e83c0494a376229f254f7d3392.sdp1/chunks_dvr.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SKY NEWS HD: SKY NEWS HD" tvg-logo="" group-title="WORLD NEWS",WR: SKY NEWS HD
+https://skynewsau-live.akamaized.net/hls/live/2006509/skynewsau-eng1/master1920x1080.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SKY NEWS SD: SKY NEWS SD" tvg-logo="" group-title="WORLD NEWS",WR: SKY NEWS SD
+https://skynewsau-live.akamaized.net/hls/live/2006509/skynewsau-eng1/master640x360.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FOX NEWS : FOX NEWS " tvg-logo="" group-title="WORLD NEWS",WR: FOX NEWS
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_2_664000.m3u8 
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO KAHANI: GEO KAHANI. " tvg-logo="" group-title="PAKISTAN",PK:GEO KAHANI
+http://34.71.57.33:6256/pak2020/geokahani/chunks.m3u8?nimblesessionid=891198&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgMzowMTo0NSBQTSZoYXNoX3ZhbHVlPVcyS01hZUZyU0VuSU5kOFYzc1UvOEE9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO TV: GEO TV. " tvg-logo="" group-title="PAKISTAN",PK:GEO TV 
+http://34.71.57.33:6256/pak2020/geoentt/chunks.m3u8?nimblesessionid=912279&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTozMDozOCBQTSZoYXNoX3ZhbHVlPXRtRy83Z21ESDlUejVzNXJNU0RvTmc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM SITARAY: HUM SITARAY. " tvg-logo="" group-title="PAKISTAN",PK:HUM SITARAY
+http://34.71.57.33:6256/pak2020/humsitaray/chunks.m3u8?nimblesessionid=913997&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTo0MzoyNSBQTSZoYXNoX3ZhbHVlPTREWElrVU1QRWtQUWczZ3RkcHA0dWc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+nimblesessionid=856883&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgOTo0ODo1NyBBTSZoYXNoX3ZhbHVlPUpWTWVZKzljb0pZekF1SS9uR0dIZWc9PSZ2YWxpZG1pbnV0ZXM9NQ==  
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM TV WORLD: HUM TV WORLD. " tvg-logo="" group-title="PAKISTAN",PK:HUM TV WORLD
+http://34.71.57.33:6256/pak2020/humtvworld/chunks.m3u8?nimblesessionid=913342&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTozODowMCBQTSZoYXNoX3ZhbHVlPXo5NUswNGh3ZzJqTWVXU2swOVo5b3c9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NICK PAK: NICK PAK" tvg-logo="" group-title="KIDS",KD: NICK PAK
+http://35.188.178.56:3381/kids2019/nickpak/chunks.m3u8?nimblesessionid=2017996&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTo1MDozMiBQTSZoYXNoX3ZhbHVlPW0vNklqOWN5aklGT0dVQXY4OTkzWlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON PAK: CARTOON PAK" tvg-logo="" group-title="KIDS",KD: CARTOON PAK
+http://35.188.178.56:3381/kids2019/cartoonnetpak/chunks.m3u8?nimblesessionid=2019123&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTo1NTowNiBQTSZoYXNoX3ZhbHVlPXdLdThEcGUwWTVQSmxrOGtlTDV2UlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY BBC EARTH: SONY BBC EARTH" tvg-logo="" group-title="NATURE",NR: SONY BBC EARTH
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586083829~acl=%2f*~data=hdntl~hmac=011d237f8b362ddf92707be5eba74668d2da222d3359aee690f049b628621162/master_2000.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUNGAMA: HUNGAMA" tvg-logo="" group-title="KIDS",KD: HUNGAMA
+http://35.188.178.56:3381/kids2019/hungama/chunks.m3u8?nimblesessionid=2019651&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjAgNTo1NzoxNiBQTSZoYXNoX3ZhbHVlPWpGcmFWTE1yR0VJNTgwNzRjUzRWbEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ABP NEWS: ABP NEWS " tvg-logo="" group-title="INDIA",IN: ABP NEWS
+http://abp-i.akamaihd.net/hls/live/765529-b/abphindi/masterhls_364.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="24 NEWS: 24 NEWS. " tvg-logo="" group-title="PAKISTAN",PK:24 NEWS
+http://stream.tapmad.com:1935/pitvlive2/channel243/chunklist_w360009214.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SEE TV: SEE TV. " tvg-logo="" group-title="PAKISTAN",PK:SEE TV
+http://stream.tapmad.com:1935/pitvlive2/seetv3/chunklist_w567520714.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN2: SONY TEN2" tvg-logo="" group-title="SPORTS",SP: SONY TEN2
+https://streamer-1.toffeelive.com/live/ten_2_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX: SONY SIX" tvg-logo="" group-title="SPORTS",SP: SONY SIX
+https://streamer-1.toffeelive.com/live/sony_six_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN3: SONY TEN3" tvg-logo="" group-title="SPORTS",SP: SONY TEN3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SD: SONY SD " tvg-logo="" group-title="INDIA",IN: SONY SD
+https://streamer-1.toffeelive.com/live/sony_entertainment_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SAB TV: SAB TV " tvg-logo="" group-title="INDIA",IN: SAB TV
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY: SONY YAY" tvg-logo="" group-title="KIDS",KD: SONY YAY
+https://streamer-1.toffeelive.com/live/sony_yay_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ALJAZEERA : ALJAZEERA " tvg-logo="" group-title="WORLD NEWS",WR: ALJAZEERA
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003104/Aljazeera/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY MAX: SONY MAX " tvg-logo="" group-title="MOVIES",MV: SONY MAX
+https://streamer-1.toffeelive.com/live/sony_max_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA: ZEE CINEMA " tvg-logo="" group-title="MOVIES",MV: ZEE CINEMA
+https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE ACTION: ZEE ACTION " tvg-logo="" group-title="MOVIES",MV: ZEE ACTION
+http://livecdnh1.tvanywhere.ae/hls/zee_action/04.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES: STAR MOVIES " tvg-logo="" group-title="MOVIES",MV: STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
